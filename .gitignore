@@ -1,0 +1,7 @@
+# 忽略所有文件
+*
+
+# 允许跟踪指定文件
+!.gitignore
+!arbbot_rust
+!VERSION
